@@ -11,7 +11,7 @@ namespace GitStudy
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub!");
-            Console.WriteLine("这是我的第一个 Git 项目。");
+            Console.WriteLine("这是我修改好的第一个 Git 项目。");
 
             Console.ReadKey();
         }
